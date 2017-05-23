@@ -5,28 +5,28 @@
 
 > What is identification?
 
-<!-- Answer here -->
+_The process of determining the identity of the user_
 
 > What is authentication?
 
-<!-- Answer here -->
+_The process of verifying that the user's identity is valid_
 
 > What is authorization?
 
-<!-- Answer here -->
+_The process allowing the user to access certain things, though maybe not other things_
 
 > What is your opinion on how identification and authentication are currently implemented in the industry?
 
-<!-- Answer here -->
+_User names should have less redundancy and password requirements can hamper security_
 
 > What is your password?
 
-<!-- Answer here -->
+_Poop_
 
 > If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
-<!-- Answer here -->
+_Never require specific characters, never ask for specific details (e.g. mother maiden name), suggest a phrase or sentence rather than a word with characters._
 
 > What advice would you give loved ones for their own passwords?
 
-<!-- Answer here -->
+_Use LastPass_
